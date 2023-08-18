@@ -23,7 +23,7 @@ indent_size = 4
 insert_final_newline = true
 charset = utf-8
 
-file_header_template = <copyright file="{fileName}" company="Adairsville High School">\n Copyright © {copyrightYearText} Adairsville High School. All rights reserved.\n This product is protected by copyright and intellectual property laws in the United States and other countries as well as by international treaties.</copyright>
+file_header_template = <copyright file="{fileName}" company="Adairsville High School">\n Copyright © 2023 Adairsville High School. All rights reserved.\n This product is protected by copyright and intellectual property laws in the United States and other countries as well as by international treaties.\n</copyright>
 
 ###############################
 # .NET Coding Conventions     #
